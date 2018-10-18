@@ -1,0 +1,8 @@
+*~
+.DS_Store
+UserInterfaceState.xcuserstate
+*.xcbkptlist
+xcschememanagement.plist
+#忽略xcuserdata文件夹
+xcuserdata/
+.idea/
