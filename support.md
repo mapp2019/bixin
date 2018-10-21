@@ -4,5 +4,4 @@
 有任何问题可以通过以下方式联系我们
 
 * 微博支持:https://weibo.com/u/6407128127
-* 微信号：nodayfor
 * 邮箱支持:bixinjz@163.com
